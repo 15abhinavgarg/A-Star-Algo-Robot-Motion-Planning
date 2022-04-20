@@ -1,4 +1,4 @@
-# Astar-algorithm-for-Robot-Planning
+# Astar-Algorithm-for-Robot-Planning
 
 The folder contains only one code file named Abhinav_garg.py
 
